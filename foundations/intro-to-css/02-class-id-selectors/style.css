@@ -2,3 +2,18 @@
     background-color: #f3acb6;
     font-family: 'Verdana', 'DejaVu sans', sans-serif;
 }
+
+#blue {
+    color: rgb(0, 88, 219);
+    font-size: 36px;
+}
+
+.odd.third {
+    font-size: 24px;
+}
+
+#green {
+    background-color: hwb(108 33% 15%);
+    font-size: 24px;
+    font-weight: bold;
+}
